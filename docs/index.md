@@ -1,8 +1,7 @@
 ---
 layout: default
 ---
-<!-- TikTok URL verification -->
-<meta name="tiktok-domain-verification" content="your-verification-code" />
+<meta name="tiktok-site-verification" content="lD24VcwFpMTIyK2ZJouvwkeSxfNTCBOi" />
 
 # DSA Ad Data Sprint - TikTok Research Tool# DSA Ad Data Sprint - TikTok Research Tool
 
