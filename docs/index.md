@@ -4,7 +4,7 @@ title:  DSA Ad Data Sprint
 ---
 # TikTok Ad Transparency Research Project
 
-## Sciences Po Digital Society & Analytics Data Sprint
+## Sciences Po Data Sprint Project
 
 ### Project Overview
 This research initiative, facilitated by Sciences Po, aims to enhance research involvement in risk assessment concerning the Digital Services Act (DSA). The focus of the project is to conduct a thorough analysis of TikTok's (and other platforms) advertising ecosystem via systematic data collection and in-depth analysis. Utilizing TikTok's Commercial Content Library API, our project improves understanding of the facets of digital advertising transparency, political communication, and content dissemination patterns on one of the fastest-growing social media platforms globally.
