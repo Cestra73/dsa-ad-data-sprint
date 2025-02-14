@@ -1,9 +1,8 @@
 ---
 layout: default
+title:  DSA Ad Data Sprint
 ---
-<meta name="tiktok-site-verification" content="lD24VcwFpMTIyK2ZJouvwkeSxfNTCBOi" />
-
-# DSA Ad Data Sprint - TikTok Research Tool# DSA Ad Data Sprint - TikTok Research Tool
+# DSA Ad Data Sprint - 
 
 A research tool for analyzing TikTok advertising data as part of the Digital Services Act (DSA) data sprint at Sciences Po.
 
